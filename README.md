@@ -1,0 +1,1 @@
+# Tek_Sayilarin_Toplami_Bulma_java101
